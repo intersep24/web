@@ -9,7 +9,7 @@ with st.sidebar :
 if (selected == 'p') :
     st.title('Haiii Jilly :wave:')
     st.subheader('Gimana kabarnya? sehat2 kan?')
-    st.subheader('nanti semangat ya buat PKL-nyaa')
+    st.subheader('semangat ya buat PKL-nyaa')
     st.write('btww, coba buka menu yg di pojok kiri atas jil')
 
 if (selected == 'buka yg inii') : 
